@@ -1,0 +1,34 @@
+ls>c //solved 
+echo "sfgdsf"| //solved 
+> wc
+d > p
+cat << hl
+echo $HOME$USER>v//solved 
+echo $HOME$USER|cat -e//solved 
+
+ cat < ls
+ export > you
+ exit 872387r
+ echo "hello $USER" // solved
+ echo hsdjkfndsjf"sfgdhsfg '$USER'" // solved
+ {
+     export s='hdsfjdf jhdsfj    '
+     echo $s | cat -e
+ }// solved
+
+ echo - hello -n
+ >hh
+ > hh
+ << hello
+
+ cat << hello
+ < env cat
+
+ env | grep -v SHELL | grep -v _=
+
+ "echo test "" test "" test"
+
+ export MallocStackLogging=1
+///////////////////new///////////////////////////////
+  cat < lkjlkjlkjlkj | ls | ls  | echo hello
+  echo -n -n -n test tout
